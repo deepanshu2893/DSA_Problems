@@ -2,6 +2,7 @@
 1. Difficulty - Easy
 2. Topic - Basics
 3. Language - Java
+
 ***Solution***
 ```
 public class CheckPrime {
